@@ -9,7 +9,7 @@ The complete project involved the end-to-end development of a social media mobil
 The app is made up of three main parts:
 * A server (Application Server), responsible for connecting the users. It can be found [here](https://github.com/RodrigoDeRosa/PicappAppServer)
 * A server (Shared Server), responsible for administrating the application servers, user authentication, and files handling. It can be found [here](https://github.com/marcossch/PicAppSharedServer)
-* An Android client to be used by the final users. It can be found [here](https://github.com/marcossch/PicAppAndroid)
+* An Android client to be used by the final users. It can be found (original repo) [here](https://github.com/marcossch/PicAppAndroid)
 
 My personal involvement in the project was on the Android Client and the Shared Server.
 
