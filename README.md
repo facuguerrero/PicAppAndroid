@@ -1,11 +1,11 @@
 ![alt text](https://github.com/marcossch/PicAppAndroid/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 # PicApp - Android
-## Languages and Technologies: 
+## Languages and Technologies:
 Android, Firebase, JAVA, Google Maps API.
 
 ---
-The complete project involved the end-to-end development of a social media mobile app with android support. 
+The complete project involved the end-to-end development of a social media mobile app with android support.
 The app is made up of three main parts:
 * A server (Application Server), responsible for connecting the users. It can be found [here](https://github.com/RodrigoDeRosa/PicappAppServer)
 * A server (Shared Server), responsible for administrating the application servers, user authentication, and files handling. It can be found [here](https://github.com/marcossch/PicAppSharedServer)
@@ -29,9 +29,6 @@ Demo videos of the main activities can be found in the following links:
 * [Profile](https://photos.app.goo.gl/7ZXzemQwXwEc6hoi6)
 * [Flashes](https://photos.app.goo.gl/XCBo56XWhMYTa6mn7)
 * [Feed](https://photos.app.goo.gl/Ezm21SKwQyWBrSWa7)
-
-
-#### [User's Guide](https://docs.google.com/document/d/1RgifHkKI69chQkqnWnu6Eg7BB4z2CfkMCMQ7Paa-WUU/edit?usp=sharing)
 
 ---
 
